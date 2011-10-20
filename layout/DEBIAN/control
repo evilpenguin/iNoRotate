@@ -1,0 +1,9 @@
+Package: us.nakedproductions.inorotate
+Name: iNoRotate
+Depends: mobilesubstrate, preferenceloader
+Version: 2.1
+Architecture: iphoneos-arm
+Description: iNoRotate disables rotation ability for your chosen application inside settings.
+Maintainer: EvilPenguin|
+Author: EvilPenguin|
+Section: Tweaks

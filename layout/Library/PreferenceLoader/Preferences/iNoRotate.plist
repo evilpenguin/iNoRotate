@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = iNoRotatePreferences;
+	cell = PSLinkCell;
+	detail = iNoRotate;
+	icon = iNoRotate.png;
+	isController = 1;
+	label = iNoRotate;
+    };
+}
