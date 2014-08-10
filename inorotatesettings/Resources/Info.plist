@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
-	<string>en</string>
+	<string>English</string>
 	<key>CFBundleExecutable</key>
-	<string>iNoRotatePreferences</string>
+	<string>iNoRotateSettings</string>
 	<key>CFBundleIdentifier</key>
-	<string>us.nakedproductions. inorotatepreferences</string>
+	<string>com.sharedroutine.inorotatesettings</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>0.9</string>
+	<string>1.0.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
@@ -23,6 +23,6 @@
 	<key>MinimumOSVersion</key>
 	<string>3.0</string>
 	<key>NSPrincipalClass</key>
-	<string>iNoRotatePreferences</string>
+	<string>iNoRotateSettingsListController</string>
 </dict>
 </plist>
